@@ -33,7 +33,7 @@ for i in range(20):
     print(f"Iteration {i+1}: Wrote 5 rows to {file_path}")
     
     # Pause for 10 seconds between iterations 
-    time.sleep(30)
+    time.sleep(10)
     
 # Mark the end of the data stream simulation
 print("Data stream simulation complete.")
